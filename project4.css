@@ -1,0 +1,662 @@
+.top{
+    width: 100%;
+    height: 43px;
+    background-color: black;
+}
+.main-div{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 182px;
+    margin-right: 182px;
+   
+}
+.div1 a{
+    color: aliceblue;
+    text-decoration: none;
+    word-spacing: 30px;
+}
+.div2 a{
+    color: aliceblue;
+    text-decoration: none;
+    word-spacing: 30px;
+    margin-right: 10px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 114px;
+    background-color: rgb(1, 1, 58);
+    /* margin-left: 170px;
+    margin-right: 179px; */
+}
+.navblock{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.navblock a{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    word-spacing: 2px;
+}
+.nav-link{
+    
+    height: 42px;
+    width: 134px;
+    /* margin-left: 185px; */
+}
+.img1{
+    width: 63.75px;
+    height: 65px;
+    margin-bottom: 10px;
+    background: none;
+    
+}
+.img2{
+    width: 185.26px;
+    height: 36.58px;
+    margin-top: 15px;
+}
+.register{
+    width: 139px;
+    height: 40px;
+    position: relative;
+    left: 20px;
+    border-radius: 10px;
+    background-color: rgb(12, 93, 199);
+} 
+#banner-img{
+    width: 100%;
+    height: 700px;
+}
+#banner-heading{
+   position: relative;
+   bottom: 35rem;
+   left: 5rem;
+    width: 800px;
+    height: 300px;
+    
+}
+.journey{
+    position: relative;
+    top: 52rem;
+    text-align: left;
+    
+}
+.h1tag{
+    color: rgb(3, 3, 41);
+    position: relative;
+    
+}
+.duration-div{
+    width: 420px;
+    height: 315px;
+    background-color: rgb(144, 144, 228);
+    border-radius: 10px;
+    position: relative;
+    bottom: 15rem;
+    left: 47rem;
+}
+.duration{
+    word-spacing: 70px;
+    position: relative;
+    left: 2rem;
+}
+.duration a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+.days{
+    word-spacing: 7rem;
+    position: relative;
+    bottom: 30rem;
+    
+}
+.days a{
+    text-decoration: none;
+    color: rgb(31, 40, 48);
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 52rem;
+    bottom: 2rem;
+}
+.pricing a{
+    color: rgb(31, 40, 48);
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 57rem;
+    bottom: 29rem;
+    text-align: center;
+    text-decoration: none;
+}
+.btnn{
+    width: 276px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(63, 63, 211);
+    color: aliceblue;
+    position: relative;
+    bottom: 27rem;
+    left: 51.40rem;
+    border: none;
+}
+.stick{
+    position: relative;
+    top: 29rem;
+    left: 6rem;
+}
+.top-hightlight{
+    position: relative;
+    top: 33rem;
+    text-align: center;
+    font-weight: bold;
+}
+.parent-card{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 37rem;
+    
+}
+.card-text{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 36px;
+    left: 15px;
+}
+.goa{
+    text-align: center;
+    position: relative;
+    top: 36px;
+    left: 15px;
+
+}
+.baga-beach{
+    text-align: center;
+    position: relative;
+    top: 36px;
+    left: 15px;
+}
+.rajasthan{
+    text-align: center;
+    position: relative;
+    top: 36px;
+    left: 15px;
+}
+.card-box1{
+    width: 335px;
+    height: 512px;
+   
+    border: dotted;
+    border-radius: 10px;
+    position: relative;
+    left: 46px;
+}
+.card-box2{
+    width: 335px;
+    height: 512px;
+    border: dotted;
+    border-radius: 10px;
+}
+.card-box3{
+    width: 335px;
+    height: 512px;
+    border: dotted;
+    border-radius: 10px;
+    position: relative;
+    right: 46px;
+}
+#goa-img{
+    position: relative;
+    top: 24px;
+    left: 22px;
+}
+#baga-img{
+    position: relative;
+    top: 24px;
+    left: 22px;
+}
+#rajasthan-img{
+    position: relative;
+    top: 24px;
+    left: 22px;
+}
+.white-div{
+    width: 100%;
+    height: 1569px;
+    background-color: rgb(184, 200, 214);
+    position: relative;
+    top: 45rem;
+}
+.fun{
+    text-align: center;
+    position: relative;
+    top: 6rem;
+    font-weight: bold;
+    color: rgb(8, 8, 53);
+}
+.child-white1{
+    width: 944px;
+    height: 373px;
+    background-color: aliceblue;
+    position: relative;
+    left: 10rem;
+    top: 11rem;
+    border-radius: 10px;
+}
+.child-white2{
+    width: 944px;
+    height: 373px;
+    background-color: aliceblue;
+    position: relative;
+    top: 13rem;
+    left: 10rem;
+    border-radius: 10px;
+}
+.child-white3{
+    width: 944px;
+    height: 373px;
+    background-color: aliceblue;
+    position: relative;
+    top: 15rem;
+    left: 10rem;
+    border-radius: 10px;
+}
+.blue-div1{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(5, 5, 48);
+    border-radius: 10px;
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+
+}
+.zero-1{
+    color: aliceblue;
+    position: relative;
+    left: 2rem;
+    top: 2rem;
+    font-size: 3rem;
+}
+.blue-div2{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(5, 5, 48);
+    border-radius: 10px;
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+
+}
+.zero-2{
+    color: aliceblue;
+    position: relative;
+    left: 2rem;
+    top: 2rem;
+    font-size: 3rem;
+}
+.blue-div3{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(5, 5, 48);
+    border-radius: 10px;
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+
+}
+.zero-3{
+    color: aliceblue;
+    position: relative;
+    left: 2rem;
+    top: 2rem;
+    font-size: 3rem;
+}
+.face{
+    text-align: justify;
+    color: rgb(201, 44, 201);
+    position: relative;
+    top: 3rem;
+    left: 1rem;
+   
+}
+.face-para{
+    font-size: 15px;
+    text-align: justify;
+    position: relative;
+    top: 3rem;
+    left: 1rem;
+}
+.activy{
+    text-align: justify;
+    color: rgb(201, 44, 201);
+    position: relative;
+    top: 3rem;
+    left: 1rem;
+}
+.activy-para{
+    font-size: 15px;
+    text-align: justify;
+    position: relative;
+    top: 3rem;
+    left: 1rem;
+}
+.candle{
+    text-align: justify;
+    color: rgb(201, 44, 201);
+    position: relative;
+    top: 3rem;
+    left: 1rem;
+}
+.candle-para{
+    position: relative;
+    top: 3rem;
+    left: 1rem;
+}
+#goa2{
+ width: 402px;
+ height: 340px;
+ position: relative;
+ bottom: 15rem;
+ left: 32rem;
+}
+#baga2{
+    width: 402px;
+ height: 340px;
+ position: relative;
+ bottom: 15rem;
+ left: 32rem;
+}
+#rajasthan2{
+    width: 402px;
+    height: 340px;
+    position: relative;
+    bottom: 15rem;
+    left: 32rem;
+}
+
+#sketch{
+    width: 100%;
+    height: 891px;
+    position: relative;
+    top: 49rem;
+    background-color: blue;
+}
+#rect-95{
+    width: 100%;
+    height: 891px;
+    position: relative;
+   bottom: 6.85rem;
+}
+.other{
+    position: relative;
+    bottom: 60rem;
+    text-align: center;
+    color: aliceblue;
+}
+#nature1{
+    width: 370px;
+    height: 391px;
+    position: relative;
+    bottom: 52rem;
+    left: 3rem;
+}
+.text-nature{
+    color: aliceblue;
+    position: relative;
+    bottom: 66rem;
+   text-align: center;
+   right: 26rem;
+   font-size: 3rem;
+}
+#nature2{
+    width: 370px;
+    height: 391px;
+    position: relative;
+    bottom: 84.20rem;
+    left: 28rem;
+}
+.text-nature2{
+    color: aliceblue;
+    position: relative;
+    bottom: 99rem;
+   text-align: center;
+   right: 2rem;
+   font-size: 3rem;
+}
+#nature3{
+    width: 370px;
+    height: 391px;
+    position: relative;
+    bottom: 116.30rem;
+    left: 52rem;
+}
+.text-nature3{
+    color: aliceblue;
+    position: relative;
+    bottom: 131rem;
+   text-align: center;
+   /* left:2rem; */
+   font-size: 3rem;
+}
+.dot1{
+    width: 27px;
+    height: 24px;
+    background-color: black;
+    border-radius: 100px;
+    position: relative;
+    bottom: 115rem;
+    left: 30rem;
+}
+.dot2{
+    width: 27px;
+    height: 24px;
+    background-color: aliceblue;
+    border-radius: 100px;
+    position: relative;
+    bottom: 116.60rem;
+    left: 33rem;
+}
+.dot3{
+    width: 27px;
+    height: 24px;
+    background-color: aliceblue;
+    border-radius: 100px;
+    position: relative;
+    bottom: 118.18rem;
+    left: 36rem;
+}
+.dot4{
+    width: 27px;
+    height: 24px;
+    background-color: aliceblue;
+    border-radius: 100px;
+    position: relative;
+    bottom: 119.59rem;
+    left: 39rem;
+}
+.footer-div{
+    background-color: rgb(3, 3, 49) ;
+    width: 100%;
+    height: 1224px;
+    position: relative;
+    bottom: 100rem;
+}
+#foot-vec{
+    width: 60px;
+    height: 55.61px;
+    position: relative;
+    top: 3rem;
+    left: 5rem;
+}
+#foot-goin{
+    position: relative;
+    top: 3.80rem;
+    left: 4.60rem;
+    width: 227.72px;
+    height: 44.96px;
+}
+.top-des{
+    text-decoration: none;
+    word-spacing: 8rem;
+    position: relative;
+}
+.top-des a{
+    text-decoration: none;
+    color: aliceblue;
+    position: relative;
+    left: 33rem;
+    font-size: 20px;
+    font-weight: bold;
+}
+.foot-lorem{
+   position: relative;
+   top: 3rem;
+   text-align: center;
+   right: 27rem;
+
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+.list1 li{
+    display: inline-block;
+   position: relative;
+   left: 34rem;
+   bottom: 8rem;
+    color: aliceblue;
+}
+.list2 li{
+    display: inline-block;
+    position: relative;
+   left: 48rem;
+   bottom: 23.50rem;
+    color: aliceblue;
+}
+.list3 li{
+    display: inline-block;
+    position: relative;
+    left: 65rem;
+    bottom: 33.70rem;
+    color: aliceblue;
+}
+#master-card{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 9rem;
+    bottom: 150rem;
+}
+#visa{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 12rem;
+    bottom: 150rem;
+}
+#g-pay{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 15rem;
+    bottom: 150rem;
+}
+#paytm{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 17rem;
+    bottom: 150rem;
+}
+.dont{
+    position: relative;
+    text-align: center;
+    bottom: 145rem;
+    right: 15rem;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ #email2{
+    position: relative;
+    left: 17rem;
+    bottom: 145rem;
+    width: 609px;
+    height: 67px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#Subcribe{
+    position: relative;
+    left: 17rem;
+    bottom: 145rem;
+    width: 178px;
+    height: 67px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(38, 120, 228) ;
+
+} 
+#stick{
+    position: relative;
+    left: 9rem;
+    bottom: 142rem;
+    width: 1070.03px;
+    height: 2px;
+}
+#strock{
+    position: relative;
+    left: 6rem;
+    bottom: 138rem;
+    width: 46.17px;
+    height: 47.48px;
+    z-index: 1;
+}
+#elipse{
+    position: relative;
+    left: 2.40rem;
+    bottom: 138rem;
+    width: 57px;
+    height: 67px;
+}
+#black-rect{
+    position: relative;
+    bottom: 126rem;
+    width: 100%;
+    height: 79px;
+}
+.design{
+    position: relative;
+    text-align: center;
+    bottom: 130rem;
+    font-size: 35px;
+    color:aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+} 
+
+@media only screen and (max-width:1200px) and (min-width:800px)
+{
+    .main-block{
+        display: flex;
+        flex-direction: column;
+    }
+   
+} 
+
+
+
